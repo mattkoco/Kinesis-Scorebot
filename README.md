@@ -1,7 +1,6 @@
 # Kinesis-Scorebot
 
-![image](https://github.com/user-attachments/assets/fce4a796-2f7f-412e-bb7c-ec896e4a7a28)
-
+![363435303-fce4a796-2f7f-412e-bb7c-ec896e4a7a28-removebg-preview](https://github.com/user-attachments/assets/eff8486d-ad2b-4185-87e6-edcdbb0851f6)
 
 
 ***What is it?***

@@ -28,3 +28,7 @@
 2. Copy/paste (hyperlink) into a file. (!!! NOTE: MAKE SURE TO SUBSTITUTE THE DESIGNATED LINES INSIDE OF THE SCOREBOT !!!)
 3. Add an alias inside of /etc/bash.bashrc that links the term 'score' to the scorebot.
 4. Thats it!
+
+***Why 'Kinesis'***
+
+- IDK it sounded cool

@@ -30,7 +30,7 @@
 
 1. Create a Scoring directory. This can be anywhere on the system.
 2. Copy/paste [THIS CODE](https://github.com/mattkoco/Kinesis-Scorebot/blob/main/getscore.sh) into a file. (!!! NOTE: MAKE SURE TO SUBSTITUTE THE DESIGNATED LINES INSIDE OF THE SCOREBOT !!!)
-3. Add an alias inside of /etc/bash.bashrc that links the term 'score' to the scorebot.
+3. Add an alias inside of /etc/bash.bashrc that links the term 'score' to the script created above.
 4. Thats it!
 
 ***Why 'Kinesis'***

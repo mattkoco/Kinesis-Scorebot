@@ -7,6 +7,10 @@
 
 - While in some cases scorebot code could be stored locally on the image, hosting it on Github allows for the option to change scorebot code on the fly. It also allows for injections.
 
+***More useful information***
+
+- It can sometimes take upwards of 3-5 minutes for the scorebot to update. Not fully sure why but presumably just delay on githubs side updating the raw code for the repository.
+
 ***How does it work?***
 
 - Kinesis was built around being easy to use. There are 5 different functions available to use. These are:
@@ -25,7 +29,7 @@
 ***Setup***
 
 1. Create a Scoring directory. This can be anywhere on the system.
-2. Copy/paste (hyperlink) into a file. (!!! NOTE: MAKE SURE TO SUBSTITUTE THE DESIGNATED LINES INSIDE OF THE SCOREBOT !!!)
+2. Copy/paste [THIS CODE](https://github.com/mattkoco/Kinesis-Scorebot/blob/main/getscore.sh) into a file. (!!! NOTE: MAKE SURE TO SUBSTITUTE THE DESIGNATED LINES INSIDE OF THE SCOREBOT !!!)
 3. Add an alias inside of /etc/bash.bashrc that links the term 'score' to the scorebot.
 4. Thats it!
 

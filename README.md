@@ -2,7 +2,6 @@
 
 ![363435303-fce4a796-2f7f-412e-bb7c-ec896e4a7a28-removebg-preview](https://github.com/user-attachments/assets/eff8486d-ad2b-4185-87e6-edcdbb0851f6)
 
-
 ***What is it?***
 
 - Kinesis Scorebot is a Linux CyberPatriot practice image scorebot written in bash. It uses the command 'curl' to pull the scorebot code from a github repository.

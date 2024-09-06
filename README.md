@@ -14,6 +14,8 @@
 
 - It can sometimes take upwards of 3-5 minutes for the scorebot to update. Not fully sure why but presumably just delay on githubs side updating the raw code for the repository.
 
+- If you would like a port of this scorebot that works with Windows rather than Linux, check out [Winesis](https://github.com/emomron2025/Winesis-Scorebot/tree/main)
+
 ***How does it work?***
 
 - Kinesis was built around being easy to use. There are 5 different functions available to use. These are:

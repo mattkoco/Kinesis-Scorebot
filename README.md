@@ -41,3 +41,11 @@
 ***Why 'Kinesis'***
 
 - IDK it sounded cool
+
+***Planned features***
+
+- Way to hide scorebot code from user to prevent cheating
+
+- Tamper-proof system
+
+- Better injects system

@@ -69,6 +69,17 @@ check_file_permissions() {
     fi
 }
 
+check_file_ownership() {
+    local file="$1"
+    local expected_owner="$2"
+    local vuln_name="$3"
+     if getfacl "$file" | grep -q "owner: $expected_owner"; then
+        echo "Vulnerability fixed: '$vuln_name'"
+    else
+        echo "Unsolved Vuln"
+    fi
+}
+
 echo " "
 echo ">> Insert image name here <<"
 echo " "
